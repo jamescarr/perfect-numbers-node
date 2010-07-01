@@ -1,9 +1,0 @@
-%h1= title
-#header
-  %a{href:'/blog/new'} New Post
-#articles
-  - each article in articles
-    %div.article
-      %div.created_at= article.created_at
-      %div.title= article.title
-      %div.body= article.body
