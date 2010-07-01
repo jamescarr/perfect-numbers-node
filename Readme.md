@@ -23,7 +23,7 @@ In order to run this, you will need:
 	node.JS
 	kiwi
 	express
-	jspec
+	jspec (installed as a gem)
 	ruby 1.8.x (you really should use rvm for it)
 	ruby gems (potentially)
 
